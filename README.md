@@ -1,4 +1,4 @@
-# byz-ison
+# frequency-calculator
 This application calculate frequency for different octave intervals.
 
 ```
